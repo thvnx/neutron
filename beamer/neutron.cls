@@ -9,3 +9,6 @@
 
 \beamertemplatenavigationsymbolsempty
 \setbeamercovered{transparent}
+
+\setbeamercolor{example text}{fg=brown}
+\setbeamercolor{alerted text}{fg=purple}
